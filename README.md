@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidarroyave&label=Profile%20views&color=25DBC7&style=flat" alt="Juan_Arroyave" /> </p>
 
-<a href="https://davidarroyave.github.io/"><img src="https://github.com/davidarroyave/DavidArroyave/blob/main/AIdevcard_JuanArroyave.png" width="256" align="right" alt="Juan Arroyave's Dev Card"/></a>
+<a href="https://davidarroyave.github.io/"><img src="https://github.com/davidarroyave/davidarroyave/blob/main/AIdevcard_JuanArroyave.png" width="256" align="right" alt="Juan Arroyave's Dev Card"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
