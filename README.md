@@ -19,7 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   </a>
   <a href="https://mlflow.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" alt="MLflow" width="50" height="50" />
+    <img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" width="50" height="50" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50" />
