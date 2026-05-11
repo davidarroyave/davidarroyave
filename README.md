@@ -17,7 +17,7 @@
   <li>Cloud Computing deployment with Azure and DigitalOcean.</li>
   <li>Automation solutions with Python, VBA, and Power Automate.</li>
   <li>ETL processes with Python and Power Query (Web/PDF Scraping).</li>
-  <li>Business intelligence insights with Power BI.</li>
+  <li>Business intelligence insights with Power BI | MS Excel Advanced</li>
   <li>Data Science analytical application reports using Quarto and Dash.</li>
 </ul>
 
